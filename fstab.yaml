@@ -1,2 +1,4 @@
 mountpoints:
   /: https://drive.google.com/drive/u/0/folders/1aKRWL8IiWdlLzCV4Z1nWRzmXcQWPvCxS
+error-handling:
+  404: https://docs.google.com/document/d/1TZIeTmH96opXruaLEK3LHd9ixWa1HzmJ_1X1SMJdjTk
